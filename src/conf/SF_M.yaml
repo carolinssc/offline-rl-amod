@@ -1,0 +1,4 @@
+memory_path: Replaymemory_san_francisco_M
+min_q_weight: 1
+lagrange_thresh: 10
+rew_scale: 0.1

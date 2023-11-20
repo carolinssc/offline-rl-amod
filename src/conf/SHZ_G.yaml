@@ -1,0 +1,4 @@
+memory_path: Replaymemory_shenzhen_downtown_west_G
+min_q_weight: 1
+lagrange_thresh: 5
+rew_scale: 0.001

@@ -1,0 +1,4 @@
+memory_path: Replaymemory_nyc_brooklyn_E
+min_q_weight: 5
+lagrange_thresh: -1
+rew_scale: 0.01
